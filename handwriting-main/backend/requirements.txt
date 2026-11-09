@@ -1,0 +1,6 @@
+Flask
+Flask-Cors
+numpy
+Pillow
+pyspellchecker
+tensorflow
